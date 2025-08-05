@@ -1,2 +1,2 @@
 # misc
-misc repo
+misc repo for Test Jira integration
